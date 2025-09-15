@@ -1,6 +1,4 @@
 # LearnGit-
 
-nobody love QNghia
-
-new change
+anh thanh sua file reproduce conflict
 
